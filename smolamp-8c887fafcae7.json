@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smolamp",
+  "private_key_id": "8c887fafcae746fd2577925847c71a7021ff5f72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIHWZ+qAuAYmB5\nit8/In9WL/VcwF2zld9Nq7PbFtprVhk//cGNlkq2MhQKNyTo7DKsYFE1yBmhSll1\nbKJZqtUX32opHr6TV4scY6mbPWMCWysB4xQComl+KPucw5n5PFpiuhoiv//naolM\nVa3y7LNNFkA7W2MobNy0MGdHdo8qfbww1EE9O7zugkx7oL1RNCukG2/on/ZZsWLF\nq8jIOxCPDetaqCGE6DFN9yfN25FPDw3ypspPUFRr0wfJPk8mBiRMPvDPQQnILKO8\nu5WtmkyWichpbe4QbutFPttQr3qlLI0oeSpw0t2srU/C5tfSI7UArP+ALUML1lKU\nUqbn+hXXAgMBAAECggEADCOYbZN1CycskgLmEvbdQZWsLSGwLW4oexYw1Vf4DO3O\nn06d2KBmzNGR3KLGtuhpFILNOlV2lI2lipV57bWKsqWHU5I9XkO/uQukpLmfEWwF\nWlpzgstmWdRTmwlUhEVweC+w2S3LcLbKOFq0MBnCsKjqYY9kHvYnlzieczvSaHHX\nq6eRnkYQBGAIHY0vEBhxaxfb0QSDgNcRVxSCPLPyJqwoqk/lQQSWBSV9greGTw8Y\nAmcMaQRP/uDNxvWjd3hgjo8X+8DTpTkApMlECYThVCRdzEJpJ/cbgCNpfiOAK5pt\nS0kdh3UUq95ogFJqImCFtX+3n1LEQs+n/BOblqj5IQKBgQDljQSoHeOPwvDgeHBA\nPlWTLCgkk9DbADAFHdKU2Ajeq68aL8fPAWn8kAo76KCreOBoXADDX1ZlsG9ftoVx\nl+qrnGNniBPBQ9ulSqLxsC5NaVkDX1HC9mC1yqj9CWzrA85Q1g7IQvhw3XSrc+9e\nN1ifjSeTPZ8vVdWYpq5GJASLdwKBgQDfLB5VvmtQp9BeOgi/9iYzhylscB+Iu6NK\nQ29h5vnTtCY5jX4NXA/MoiN8UZqFmAQDaU+nb7AzPEFjgiFA6J+r4nY9uJZyJQkK\nsblIqQnOG0a7Z4hrusRZyA66aEt1tHRtFkbqA7MzVzeWcud5z67n29AMV4XDwqEl\nWvpVeqygoQKBgQCO3yRk1qWKFtUBgTSsZ5+viC48BdxaUlWQ+azVg1iR7t1/OPnt\nt32V+rjD7NgDoapaidjXwQDvLc9EDUAlIV6oDSA5khJpmaidykR8lSFcgRMr7Cnh\nZKNwwoBHbZRi+e1xlqmAr14eMVeqVvBG/b+lHp/hHttzBMN6zVNuyIAjpQKBgFgK\nUZVF35Qb/8mMX3NLKdreEWtj+Cy6yTo8zC31Ls1jnkjKFtYyYVE7DYC3uJvHUp39\n55yIJRyxQqJ87Z1rp8HpPvguX7t7/MspPYz6kpGqlQbNWzYUoe1BTP4gstQmcl+u\nkB81gnZYi+dgQQz+72MshjC4Pl7x4xyXfXZHRN7BAoGBAJ/xrkcz/7/riz4vmxAl\nMfwckNia/Y0Z2PKlyy7yXv2x8gOLXKXblmFaQ1rrabCcUl56yLLSifEY7MHdnEep\nlTSHK2RtmFjd8PDUAKVlEhqTjVQDInln9VEqYO/AvPpFcNdctrpa3Gqylxs4BuIq\nbX185kH0pUWYtK9gjsDuzKZ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "acesso-smolamp@smolamp.iam.gserviceaccount.com",
+  "client_id": "112313850453049431785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acesso-smolamp%40smolamp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
